@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CADUG content types: page feature.
+ */
+
+include_once 'cadug_content_types_page.features.inc';
