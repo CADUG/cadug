@@ -23,8 +23,8 @@ dependencies[] = shortcut
 dependencies[] = taxonomy
 
 ; Contrib Modules
-dependencies[] = admin_menu
 dependencies[] = ctools
+dependencies[] = navbar
 dependencies[] = pathauto
 dependencies[] = role_export
 
